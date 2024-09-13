@@ -1,0 +1,6 @@
+com\enhisecure\dynamicApprover\dto\Request.class
+com\enhisecure\dynamicApprover\dto\Manager.class
+com\enhisecure\dynamicApprover\dto\RequestedBy.class
+com\enhisecure\dynamicApprover\service\approverService$1.class
+com\enhisecure\dynamicApprover\dto\RequestedFor.class
+com\enhisecure\dynamicApprover\dto\RequestedItems.class
